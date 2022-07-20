@@ -1,4 +1,4 @@
-# OHO Blockchain
+# OHO Chain
 
 ## Welcome to the OHO - The Humanized Crypto for Everyone!
 
